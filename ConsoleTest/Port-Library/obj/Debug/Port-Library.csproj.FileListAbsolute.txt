@@ -1,0 +1,6 @@
+/home/fuzzy/Projects/GitTest/ConsoleTest/Port-Library/bin/Debug/Port-Library.dll
+/home/fuzzy/Projects/GitTest/ConsoleTest/Port-Library/bin/Debug/Port-Library.pdb
+/home/fuzzy/Projects/GitTest/ConsoleTest/Port-Library/obj/Debug/Port-Library.csprojAssemblyReference.cache
+/home/fuzzy/Projects/GitTest/ConsoleTest/Port-Library/obj/Debug/Port-Library.csproj.CoreCompileInputs.cache
+/home/fuzzy/Projects/GitTest/ConsoleTest/Port-Library/obj/Debug/Port-Library.dll
+/home/fuzzy/Projects/GitTest/ConsoleTest/Port-Library/obj/Debug/Port-Library.pdb

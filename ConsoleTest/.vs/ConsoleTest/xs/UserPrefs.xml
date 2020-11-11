@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{85D289B0-1B68-4D7F-AA8B-F181CF6DB7D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleTest/Program.cs">
+    <Files>
+      <File FileName="ConsoleTest/Program.cs" Line="9" Column="14" />
+      <File FileName="Port-Library/MyClass.cs" Line="12" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleTest" expanded="True">
+            <Node name="ConsoleTest" expanded="True">
+              <Node name="MyClass.cs" selected="True" />
+            </Node>
+            <Node name="Port-Library" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Port-Library FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

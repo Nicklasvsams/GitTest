@@ -1,0 +1,9 @@
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/bin/Debug/ConsoleTest.exe
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/bin/Debug/ConsoleTest.pdb
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/bin/Debug/Port-Library.dll
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/bin/Debug/Port-Library.pdb
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.csprojAssemblyReference.cache
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.csproj.CoreCompileInputs.cache
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.csproj.CopyComplete
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.exe
+/home/fuzzy/Projects/GitTest/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.pdb
